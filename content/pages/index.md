@@ -1,7 +1,7 @@
 Title: Apache Fundraising 
 Slug: index
 
-The fundraising team sets and executes strategy to bring income to the ASF in support of our mission of providing software for the public good within board-approved budgets.
+The fundraising team sets and executes strategy to bring income to the ASF in support of our mission to provide software for the public good within board-approved budgets.
 
 
 ##### Public Information About Fundraising
