@@ -1,5 +1,6 @@
 Title: Apache Fundraising 
-Slug: index
+Slug: home
+save_as: index.html
 
 The fundraising team sets and executes strategy to bring income to the ASF in support of our mission of providing software for the public good within board-approved budgets.
 
