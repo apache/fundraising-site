@@ -1,0 +1,8 @@
+staging:
+  whoami: asf-site
+  profile: ~
+
+pelican:
+  whoami: main
+  target: asf-site
+
