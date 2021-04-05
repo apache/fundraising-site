@@ -13,7 +13,11 @@ TIMEZONE = 'UTC'
 
 DEFAULT_LANG = u'en'
 SITEURL = 'https://fundraising.apache.org/'
-PAGE_SAVE_AS = './{slug}.html'
+# Save pages using full directory preservation
+PATH_METADATA= '.*?(pages/)?(?P<path_no_ext>.*?)\.[a-z]*$'
+PAGE_SAVE_AS= './{slug}.html'
+PAGE_URL= './{slug}.html'
+
 ARTICLE_SAVE_AS = 'news/{slug}.html'
 ARTICLE_URL = 'news/{slug}.html'
 
