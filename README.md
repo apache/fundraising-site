@@ -23,3 +23,6 @@ http://docs.getpelican.com/en/stable/content.html#articles-and-pages
 
 Anytime you checkin a file, the site is regenerated:
 https://ci.apache.org/builders/fundraising-site
+
+## User notes
+Users must be [set up on gitbox](https://gitbox.apache.org/setup/)
