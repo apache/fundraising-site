@@ -108,7 +108,7 @@ We have also defined an Event Sponsor Ambassador role on the event planning team
 https://svn.apache.org/repos/private/committers/events/event_sponsor_ambassador.md
 
 ##### How do I edit this site?
-Just clone [this repo](https://svn.apache.org/repos/asf/fundraising/site/) and modify pages under content/pages. It is important to note that each .md file must have a Title and Slug tag at the top to publish to the right location. When composing in markdown, it's important to noate that this site is powered by the ???? markdown parser - be sure to use compatible markdown! Commits to this repo will automatically be published to the site.
+Just clone [this repo](https://gitbox.apache.org/repos/asf/fundraising-site.git) and modify pages under content/pages. It is important to note that each .md file must have a Title and Slug tag at the top to publish to the right location. When composing in markdown, it's also important to note that this site is powered by the Pelican markdown parser/content generator, so be sure to use compatible markdown. Commits to this repo will automatically be published to the site.
 
 ##### What is the process to appoint VP Sponsor Relations?
 See the [private org chart page](https://whimsy.apache.org/roster/orgchart/vp-sponsor-relations) for V.P. Sponsor Relations
