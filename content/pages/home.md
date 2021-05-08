@@ -73,7 +73,7 @@ If you have access to the site and are ready to add someone, navigate to the fol
 ##### What is targeted sponsorship?
 Download the [fundraising policy](https://docs.google.com/document/d/1JhZEcty2fSx7ZxiBs41j3qOUrqsA7TvKmQ13ZZ61lJY/export?format=pdf). The goal of targeted sponsorships is to provide sponsors a means to directly support a specific area of the foundation. This can be anything from particular infrastructure services to hosting a hackathon during a public event. The program provides recognition for those that support areas of the foundation through non-monetary contributions.
 
-For an internal FAQ of the program, have a look at [this document](https://docs.google.com/document/d/1BQjHHWZPP5Wh6Gyey69AkGBoyivujFjOSkEZmCBDyE8).
+For an internal FAQ of the program as well as some guidelines around acceptance/usage criteria, have a look at [this document](https://docs.google.com/document/d/1BQjHHWZPP5Wh6Gyey69AkGBoyivujFjOSkEZmCBDyE8).
 
 ##### What are the important documents I should know?
 All of them, of course! But, here's a quick, curated list:
