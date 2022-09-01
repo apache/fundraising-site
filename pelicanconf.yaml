@@ -1,0 +1,16 @@
+site:
+  name: Apache Fundraising
+  description: Apache Fundraising
+  domain: fundraising.apache.org 
+  logo: images/httpd_logo_wide_new.png
+  repository: https://github.com/apache/fundraising-site/blob/main/content/
+  trademarks: Apache HTTP Server, Apache, and the Apache feather logo are trademarks of The Apache Software Foundation.
+
+theme: theme/apache
+
+genid:
+  unsafe: yes
+  elements: yes
+  headings_depth: 4
+  permalinks: yes
+  tables: yes
