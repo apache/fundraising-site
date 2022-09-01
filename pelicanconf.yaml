@@ -6,7 +6,7 @@ site:
   repository: https://github.com/apache/fundraising-site/blob/main/content/
   trademarks: Apache HTTP Server, Apache, and the Apache feather logo are trademarks of The Apache Software Foundation.
 
-theme: theme/apache
+theme: theme
 
 genid:
   unsafe: yes
